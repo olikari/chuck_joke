@@ -1,4 +1,7 @@
 language: java
+<<<<<<< HEAD
 
+=======
+>>>>>>> be316831978138411d5d436d0f60f13ffb9daf02
 jdk:
  - oraclejdk8
